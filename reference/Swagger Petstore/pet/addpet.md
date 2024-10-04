@@ -5,3 +5,5 @@ api:
   operationId: addPet
 hidden: false
 ---
+
+Adding a new Pet Docs Hello!
