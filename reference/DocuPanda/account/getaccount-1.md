@@ -5,6 +5,6 @@ excerpt: >-
   the number of overage credits, and the details of the upcoming invoice.
 api:
   file: docupanda.json
-  operationId: get_account
+  operationId: getaccount
 hidden: false
 ---
