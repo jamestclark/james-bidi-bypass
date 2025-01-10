@@ -1,0 +1,4 @@
+---
+name: MadeInBidi
+---
+Test component
