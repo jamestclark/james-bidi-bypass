@@ -1,0 +1,4 @@
+---
+name: MyComponent
+---
+Test component
