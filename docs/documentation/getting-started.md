@@ -11,12 +11,6 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 
 <br />
 
-<MyComponent />
-
-<br />
-
-<br />
-
 Edited on Readme
 
 Edited on Github 2
