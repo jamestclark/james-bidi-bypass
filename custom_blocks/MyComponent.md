@@ -1,4 +1,4 @@
 ---
-name: MyComponent
+name: MyComponentRenamed
 ---
 Test component
