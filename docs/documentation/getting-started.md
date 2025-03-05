@@ -11,7 +11,7 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 
 <br />
 
-1
+1 2
 
 # 📝 Customize your docs
 
