@@ -11,19 +11,7 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 
 <br />
 
-Edited on Readme
-
-Edited on Github 2
-
-Edited on local branch
-
-Repair
-
-test
-
-test2
-
-test3
+1
 
 # 📝 Customize your docs
 
