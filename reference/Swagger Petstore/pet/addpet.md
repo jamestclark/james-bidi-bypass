@@ -1,9 +1,9 @@
 ---
-title: Add a new pet to the store
+title: Add a new pet to the store title update
 api:
   file: petstore.json
   operationId: addPet
-hidden: false
+hidden: true
 ---
 
 Add pet content
