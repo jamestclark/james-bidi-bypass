@@ -5,3 +5,5 @@ api:
   operationId: addPet
 hidden: false
 ---
+
+Add pet content
