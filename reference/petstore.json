@@ -48,15 +48,18 @@
     "/pet": {
       "post": {
         "tags": ["pet"],
-        "summary": "Add a new pet to the store",
-        "description": "",
+        "summary": "Add a new pet to the store beep",
+        "description": "add pet description",
         "operationId": "addPet",
         "requestBody": {
           "$ref": "#/components/requestBodies/Pet"
         },
         "responses": {
           "405": {
-            "description": "Invalid input"
+            "description": "Invalid input update"
+          },
+          "404": {
+            "description": "not found update"
           }
         },
         "security": [
@@ -788,7 +791,7 @@
             }
           }
         },
-        "description": "Pet object that needs to be added to the store",
+        "description": "Pet object that needs to be added to the store update",
         "required": true
       },
       "UserArray": {
@@ -940,7 +943,7 @@
           },
           "name": {
             "type": "string",
-            "example": "doggie"
+            "example": "doggie update"
           },
           "photoUrls": {
             "type": "array",
