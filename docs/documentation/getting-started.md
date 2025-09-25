@@ -11,7 +11,7 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 
 <br />
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
 
 # 📝 Customize your docs
 
@@ -40,4 +40,4 @@ ReadMe has a _ton_ of ways to make your docs the envy of any <Glossary>parliamen
 
 We're excited you're here! :blue-heart:
 
-![This won't be fun to clean up...](https://owlbert.io/images/popper.gif)
+<Image alt="This won't be fun to clean up..." border={false} src="https://owlbert.io/images/popper.gif" />
