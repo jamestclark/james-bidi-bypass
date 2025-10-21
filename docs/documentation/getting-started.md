@@ -4,40 +4,127 @@ excerpt: >-
   This page will help you get started with james-bidi. You'll be up and running
   in a jiffy!
 hidden: false
+link:
+  new_tab: false
 ---
-Welcome to ReadMe! :owlbert:
+# Welcome to james-bidi, Oh Developer Friend! 🦉
 
-You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
+*A rhythmic guide to get you started on your journey*
 
-<br />
+---
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+## 🎵 The Opening Verse
 
-# 📝 Customize your docs
+Welcome one, welcome all, to ReadMe's bright domain,  
+Where developer hubs flourish and documentation reigns!  
+With Owlbert as your guide, so wise and ever true,  
+Your journey starts right here - there's much for us to do!
 
-What you're looking at right now is what we call our **Guides**. It's a free-form place to write to your heart's content! And the best part is... you aren't alone! Your users can contribute (with your approval, don't worry!) using the **[Suggested Edits](https://docs.readme.com/main/docs/suggested-edits)** feature on every page. It's like GitHub Pull Requests, but for text!
+---
 
-Want to ease your users into it with some fancy marketing pages? You can enable a **[Landing Page](https://docs.readme.com/main/docs/landing-page)**, and write as much HTML as you want to make it look like your brand.
+## 📝 The Ballad of Customization
 
-# 🚦 Interactive API Docs
+*In the land of guides and pages free,*  
+*Where words flow like a gentle sea,*  
+*You'll craft your docs with heart's delight,*  
+*And make your content shine so bright!*
 
-If you don't have an API, then no worries! ReadMe is great for any sort of documentation. But if you have an API, there are a few features to make your experience with ReadMe (and your users' experience with your developer hub!) a magical one:
+Your **Guides** await your loving touch,  
+A canvas where you can write so much!  
+But fear not, friend, you're not alone—  
+Your users help your content grow!
 
-* **Upload your OpenAPI file:** First step is to describe your API to us! If you already have an OpenAPI file, there's lots of ways to upload it in the _API Reference_ section. Our favorite is the GitHub Action, but you can use our CLI or you can upload it directly to the UI!
-* **Add API Keys:** Don't make your users hunt around for API keys. You can surface their API key [right in the docs](https://docs.readme.com/main/docs/personalized-docs), so they can play around with your API right inside ReadMe.
-* **Add Logs:** The coolest thing about ReadMe is you can add [real-time API Logs](https://docs.readme.com/main/docs/developer-dashboard) right to your docs, so you and your users can both see what's going on with their API. Trust us, it's magical!
+Through **[Suggested Edits](https://docs.readme.com/main/docs/suggested-edits)** they contribute their art,  
+Like GitHub pulls, but for the heart  
+Of every page and every line,  
+Together making docs divine!
 
-# 📈 Know your users
+Want marketing pages, sleek and grand?  
+A **[Landing Page](https://docs.readme.com/main/docs/landing-page)** you can command!  
+With HTML as your painter's brush,  
+Create a brand that makes hearts rush!
 
-One of the best ways to know if you're nailing the dev experience is checking out how your users are interacting with both your docs and API.
+---
 
-* **Documentation Metrics** let you see who's using your docs, what your best and worst pages are, what people are searching for and more!
-* **API Metrics** are a bit harder to set up (I promise we do our best to make it painless!), but once you set this up you'll know _everything_ that's going on with your users!
+## 🚦 The API Symphony
 
-# 💬 We're here to help!
+*If APIs you do not possess,*  
+*Fear not! ReadMe handles any test*  
+*Of documentation, plain or grand,*  
+*We'll help you take a mighty stand!*
 
-ReadMe has a _ton_ of ways to make your docs the envy of any <Glossary>parliament</Glossary> (like that mouseover!). If you get stuck, [shoot us an email](mailto:support@readme.io) or use the Intercom widget on the bottom right of any page.
+But if an API is your treasure,  
+These features bring you boundless pleasure:
 
-We're excited you're here! :blue-heart:
+**First Movement - The Upload:**  
+*Describe your API with OpenAPI's song,*  
+*Upload it where it does belong!*  
+*Through GitHub Actions, CLI tool,*  
+*Or UI direct - each method's cool!*
+
+**Second Movement - The Keys:**  
+*Don't make your users hunt and seek,*  
+*For API keys that make them weak!*  
+*Surface them [right in your docs](https://docs.readme.com/main/docs/personalized-docs) so clear,*  
+*Let users play without a fear!*
+
+**Third Movement - The Logs:**  
+*The coolest trick, we must confess,*  
+*Are [real-time API Logs](https://docs.readme.com/main/docs/developer-dashboard), no less!*  
+*Both you and users see with glee,*  
+*What's happening with their API!*  
+*Trust us, friend, it's truly magical,*  
+*This feature makes docs quite tragical... to leave!*
+
+---
+
+## 📈 The Metrics Poem
+
+*To know your users, understand their way,*  
+*Check how they interact each day*  
+*With docs and APIs, both day and night,*  
+*These metrics bring you crystal sight!*
+
+**Documentation Metrics** sing their tune,  
+From dawn of day to crescent moon:  
+- Who reads your docs with eager eyes?  
+- Which pages earn the loudest cries?  
+- What searches lead them to your door?  
+- And so much more, and so much more!
+
+**API Metrics** (though harder to set),  
+Once configured, you'll never forget  
+The power they bring, the insight true—  
+You'll know *everything* your users do!
+
+---
+
+## 💬 The Helper's Refrain
+
+*ReadMe offers ways aplenty,*  
+*Features more than one or twenty*  
+*To make your docs the envy bright*  
+*Of any <Glossary>parliament</Glossary> in sight!*
+
+Should you stumble, should you fall,  
+[Email us](mailto:support@readme.io) - we'll answer your call!  
+Or use Intercom, bottom right,  
+We're here to help both day and night!
+
+---
+
+## 🎊 The Closing Verse
+
+*We're thrilled you've joined our merry band,*  
+*With ReadMe's tools, you'll take command*  
+*Of documentation, fine and true,*  
+*Our hearts are filled with joy for you!* :blue-heart:
 
 <Image alt="This won't be fun to clean up..." border={false} src="https://owlbert.io/images/popper.gif" />
+
+---
+
+*Thus ends our poetic tale so sweet,*  
+*Your journey's just begun to beat*  
+*With rhythm, rhyme, and docs so fine—*  
+*Go forth and make your hub divine!*
